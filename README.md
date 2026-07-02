@@ -1,6 +1,6 @@
  Project: Mobile App Data Analysis — What Makes an App Popular?
 Goal: Help a company (that builds free, ad-supported apps) decide what type of app to build next, since more users = more ad revenue.
-What you did, step by step:
+What i did, step by step:
 
 Loaded the data — two datasets: Apple App Store apps and Google Play Store apps (CSV files)
 Cleaned the data:
